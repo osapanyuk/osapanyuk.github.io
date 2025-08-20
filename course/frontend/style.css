@@ -157,7 +157,7 @@ body {
     right: 0;
     bottom: 0;
     background: radial-gradient(circle at 30% 20%, hsl(240, 73%, 65%, 0.1) 0%, transparent 50%),
-        radial-gradient(circle at 70% 80%, hsl(280, 60%, 70%, 0.1) 0%, transparent 50%);
+                radial-gradient(circle at 70% 80%, hsl(280, 60%, 70%, 0.1) 0%, transparent 50%);
 }
 
 .hero-container {
